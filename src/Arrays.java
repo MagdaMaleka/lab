@@ -12,7 +12,7 @@ public class Arrays {
         temps[0] = 6;
         temps[1] = 90;
         System.out.println(temps[66]);
-        
+
 
     }
 }
